@@ -13,7 +13,8 @@ There were 3 datasets I worked off of. First and second dataset are scraped from
 
 Algorithms
 Methodology & Steps:
-	Step 1: Scrape Data from website or Download from API
+
+Step 1: Scrape Data from website or Download from API
   
   Step 2: Clean Data
 	
