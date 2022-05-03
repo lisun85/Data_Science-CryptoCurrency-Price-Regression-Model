@@ -1,6 +1,6 @@
 # CryptoCurrency Price Regression Model
 
-The goal of this project is to use linear regression to identify relationships between Cryptocurrency Price and its related factors that contribute to fundamental analysis of Crypto and yield investment opportunities.  I worked with 3 datasets focused on Circulating Supply, Market Capitalization, Social Media volumes, and On-Chain Transactions. After running baseline regression models, conducting cross validation, applying regularization, and utilizing feature engineering, I was able to find strong correlations with certain crypto factors and build a blueprint for fundamental analysis.  
+The goal of this project is to use linear regression to identify relationships between Cryptocurrency Price and its related factors that contribute to fundamental analysis of Crypto.  I worked with 3 datasets focused on Circulating Supply, Market Capitalization, Social Media volumes, and On-Chain Transactions. After running baseline regression models, conducting cross validation, applying regularization, and utilizing feature engineering, I was able to find strong correlations with certain crypto factors and build a blueprint for fundamental analysis.  
 
 Design
 
